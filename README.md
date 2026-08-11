@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![Bike Sales Dashboard](Dashboard.png)
+![Bike Sales Dashboard](Dashboard-preview.png)
 
 ## 📌 Project Overview
 
